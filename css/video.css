@@ -67,3 +67,7 @@
     margin: 0;
     border-top: 1px solid #878C8E;
 }
+
+#player{
+    height: 500px;
+}
