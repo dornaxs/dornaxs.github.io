@@ -1,6 +1,6 @@
 /* COMPLEMENTARY FILE, should be imported into another stylesheet file */
 
-@import url("https://github.netux.ml/css/chatright.css");
+@import url("./video.css");
 
 @media screen and (min-width: 72em) { /* If not "phone mode" */
     /* Main functions */
