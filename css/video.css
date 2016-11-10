@@ -2,7 +2,7 @@
 #main-room .main-room-wrapper { min-height: initial; }
 #main-room .left_section {
     padding: 0 33.334% 0 0 !important;
-    margin: 100 !important;
+    margin: 0 !important;
 }
 #main-room .left_section .main-player-wrapper {
     width: 100%;
@@ -12,8 +12,8 @@
     padding: 3.1rem 0 3.56rem;
 }
 #main_player {
-    padding: 0;
-    border-radius: 0;
+    padding: 25%;
+    border-radius: 25%;
     height: inherit;
     background-color: rgba(0,0,0,0);
     border-top: 1px solid #878c8e;
