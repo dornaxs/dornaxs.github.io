@@ -34,10 +34,10 @@
 #mods-controllers .mods-controllers-main-wrapper {
     position: relative;
 }
-#main_player #mods-controllers { padding-right: 0; }
+#main_player #mods-controllers { padding-right: 500; }
 #main_player .player_header {
     top: -3rem;
-    height: 50rem;
+    height: 2.9rem;
     display: flex;
 }
 #main_player .player_header span {
