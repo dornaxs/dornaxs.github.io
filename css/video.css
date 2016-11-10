@@ -1,12 +1,12 @@
 /* Main function */
 #main-room .main-room-wrapper { min-height: initial; }
 #main-room .left_section {
-    padding: 0 10.334% 0 0 !important;
+    padding: 0 33.334% 0 0 !important;
     margin: 0 !important;
 }
 #main-room .left_section .main-player-wrapper {
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
     margin: auto;
     background-color: rgba(0,0,0,.7);
     padding: 3.1rem 0 3.56rem;
