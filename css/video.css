@@ -62,12 +62,10 @@
 #main_player .player_sharing {
     position: absolute;
     width: 100%;
-    height: 3.55rem;
+    height: 10rem;
     padding: 1rem 1rem 0;
     margin: 0;
     border-top: 1px solid #878C8E;
 }
 
-#player{
-    height: 500px;
-}
+
