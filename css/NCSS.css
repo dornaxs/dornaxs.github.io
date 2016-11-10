@@ -37,7 +37,7 @@
 #main_player #mods-controllers { padding-right: 0; }
 #main_player .player_header {
     top: -3rem;
-    height: 2.95rem;
+    height: 50rem;
     display: flex;
 }
 #main_player .player_header span {
