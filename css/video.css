@@ -5,8 +5,8 @@
     margin: 0 !important;
 }
 #main-room .left_section .main-player-wrapper {
-    width: 50%;
-    height: 50%;
+    width: 100%;
+    height: 100%;
     margin: auto;
     background-color: rgba(0,0,0,.7);
     padding: 3.1rem 0 3.56rem;
@@ -41,7 +41,7 @@
 #main_player .player_header span {
     flex: 1;
     order: 0;
-    height: 100%;
+    height: 50%;
     line-height: 1;
     border-radius: 0;
     margin: 0;
