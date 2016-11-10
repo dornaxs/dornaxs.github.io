@@ -1,7 +1,7 @@
 /* Main function */
 #main-room .main-room-wrapper { min-height: initial; }
 #main-room .left_section {
-    padding: 0 33.334% 0 0 !important;
+    padding: 0 10.334% 0 0 !important;
     margin: 0 !important;
 }
 #main-room .left_section .main-player-wrapper {
